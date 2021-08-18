@@ -1,0 +1,14 @@
+
+.btn {
+    height: 70px;
+    width: 200px;
+    margin: 20px;
+    border-radius: 30px;
+    font-size: 35px;
+    background-color: blanchedalmond;
+}
+
+.btn:hover{
+    background-color: aqua;
+    transition: 0.5s;
+}
